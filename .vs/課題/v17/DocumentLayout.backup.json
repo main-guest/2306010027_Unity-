@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\\u8AB2\u984C\\assets\\script\\main\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\\u8AB2\u984C\\assets\\script\\main\\enemy\\enemycontroller_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main\\enemy\\enemycontroller_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\\u8AB2\u984C\\assets\\script\\main\\enemy\\enemycontroller_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main\\enemy\\enemycontroller_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\\u8AB2\u984C\\assets\\script\\main\\enemy\\enemycontroller_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main\\enemy\\enemycontroller_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\\u8AB2\u984C\\assets\\script\\main\\enemy\\enemycontroller_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main\\enemy\\enemycontroller_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\\u8AB2\u984C\\assets\\script\\main\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main\\enemy\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|c:\\users\\student\\desktop\\\u8AB2\u984C\\assets\\script\\main\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|c:\\users\\student\\desktop\\\u8AB2\u984C\\assets\\script\\main\\door\\open_door2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main\\door\\open_door2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\\u8AB2\u984C\\assets\\script\\main\\enemystatusso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main\\enemystatusso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\\u8AB2\u984C\\assets\\script\\main\\playerstatusso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\main\\playerstatusso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|C:\\Users\\student\\Desktop\\\u8AB2\u984C\\assets\\script\\title\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CD28815-2B22-777E-71E0-9726260CA295}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\title\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main\\GameOver.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\GameOver.cs",
+              "RelativeToolTip": "Assets\\Script\\Main\\GameOver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:39:53.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Open_Door2.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\DOOR\\Open_Door2.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main\\DOOR\\Open_Door2.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\DOOR\\Open_Door2.cs",
+              "RelativeToolTip": "Assets\\Script\\Main\\DOOR\\Open_Door2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:33:56.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyController_4.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\Enemy\\EnemyController_4.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main\\Enemy\\EnemyController_4.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\Enemy\\EnemyController_4.cs",
+              "RelativeToolTip": "Assets\\Script\\Main\\Enemy\\EnemyController_4.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:54:04.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyController_3.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\Enemy\\EnemyController_3.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main\\Enemy\\EnemyController_3.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\Enemy\\EnemyController_3.cs",
+              "RelativeToolTip": "Assets\\Script\\Main\\Enemy\\EnemyController_3.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:54:02.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyController_2.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\Enemy\\EnemyController_2.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main\\Enemy\\EnemyController_2.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\Enemy\\EnemyController_2.cs",
+              "RelativeToolTip": "Assets\\Script\\Main\\Enemy\\EnemyController_2.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:53:56.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyController_1.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\Enemy\\EnemyController_1.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main\\Enemy\\EnemyController_1.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\Enemy\\EnemyController_1.cs",
+              "RelativeToolTip": "Assets\\Script\\Main\\Enemy\\EnemyController_1.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwCkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:53:55.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\Enemy\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main\\Enemy\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\Enemy\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Script\\Main\\Enemy\\EnemyController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:18:47.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemyStatusSO.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\EnemyStatusSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main\\EnemyStatusSO.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\EnemyStatusSO.cs",
+              "RelativeToolTip": "Assets\\Script\\Main\\EnemyStatusSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:18:42.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerStatusSO.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\PlayerStatusSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main\\PlayerStatusSO.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\PlayerStatusSO.cs",
+              "RelativeToolTip": "Assets\\Script\\Main\\PlayerStatusSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:18:36.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Main\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Main\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Main\\PlayerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T05:18:07.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartButton.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Title\\StartButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Title\\StartButton.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\\u8AB2\u984C\\Assets\\Script\\Title\\StartButton.cs",
+              "RelativeToolTip": "Assets\\Script\\Title\\StartButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T04:55:26.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
